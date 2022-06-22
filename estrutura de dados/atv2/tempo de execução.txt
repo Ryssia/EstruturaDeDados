@@ -1,0 +1,21 @@
+Tempo de execução em funções binária ou sequencial em milissegundos:
+
+vetor [10]
+binária: 0
+sequencial: 0
+
+vetor [100]
+binária: 0
+sequencial: 0
+
+vetor [1000]
+binária: 0
+sequencial: 0
+
+vetor [10000]
+binária: 0 
+sequencial: 2
+
+vetor [100000]
+binária: 2
+sequencial: 25
